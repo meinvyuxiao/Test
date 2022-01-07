@@ -1,1 +1,3 @@
 # Test
+
+const xd = 'xdclass';
